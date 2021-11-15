@@ -1,0 +1,126 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "file:///home/jorrit/proj/globi/data-new/reeder2021/virus-bats-review-first10.tsv",
+    "dcterms:bibliographicCitation" : "DeeAnn Reeder, Natalie Weber, Dina Dechman, Juliane Schaer, Sébastien Puechmaille, Wanda Markotter, Jack Sutton, and Martina Nagy 2021. Preliminary data on literature review of bat-virus associations.",
+    "interactionTypeName": "pathogenOf",
+    "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002556",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "Year",
+        "titles" : "Year",
+        "datatype" : "string"
+      }, {
+        "name" : "Authors",
+        "titles" : "Authors",
+        "datatype" : "string"
+      }, {
+        "name" : "Title",
+        "titles" : "Title",
+        "datatype" : "string"
+      }, {
+        "name" : "COMMENTS",
+        "titles" : "COMMENTS",
+        "datatype" : "string"
+      }, {
+        "name" : "YES new bat samples or new viral findings in previously sampled",
+        "titles" : "YES new bat samples or new viral findings in previously sampled",
+        "datatype" : "string"
+      }, {
+        "name" : "JACK new comments",
+        "titles" : "JACK new comments",
+        "datatype" : "string"
+      }, {
+        "name" : "Type",
+        "titles" : "Type",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "Country",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "Virus",
+        "datatype" : "string"
+      }, {
+        "name" : "basisOfRecordName",
+        "titles" : "Research type",
+        "datatype" : "string"
+      }, {
+        "name" : "Antibodies",
+        "titles" : "Antibodies",
+        "datatype" : "string"
+      }, {
+        "name" : "Virus RNA",
+        "titles" : "Virus RNA",
+        "datatype" : "string"
+      }, {
+        "name" : "Sampling methods",
+        "titles" : "Sampling methods",
+        "datatype" : "string"
+      }, {
+        "name" : "Virus/antibody prevalence [%]",
+        "titles" : "Virus/antibody prevalence [%]",
+        "datatype" : "string"
+      }, {
+        "name" : "Zoonotic transmission confirmed",
+        "titles" : "Zoonotic transmission confirmed",
+        "datatype" : "string"
+      }, {
+        "name" : "Zoonotic transmission assumed",
+        "titles" : "Zoonotic transmission assumed",
+        "datatype" : "string"
+      }, {
+        "name" : "Relation to outbreak confirmed",
+        "titles" : "Relation to outbreak confirmed",
+        "datatype" : "string"
+      }, {
+        "name" : "Relation to outbreak assumed",
+        "titles" : "Relation to outbreak assumed",
+        "datatype" : "string"
+      }, {
+        "name" : "# bats captured",
+        "titles" : "# bats captured",
+        "datatype" : "string"
+      }, {
+        "name" : "# bats examined",
+        "titles" : "# bats examined",
+        "datatype" : "string"
+      }, {
+        "name" : "# bats killed",
+        "titles" : "# bats killed",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Bat species (taxon; number; cave; fruit bat…)",
+        "datatype" : "string"
+      }, {
+        "name" : "Bat identification",
+        "titles" : "Bat identification",
+        "datatype" : "string"
+      }, {
+        "name" : "habitatName",
+        "titles" : "Habitat",
+        "datatype" : "string"
+      }, {
+        "name" : "Ecological data",
+        "titles" : "Ecological data",
+        "datatype" : "string"
+      }, {
+        "name" : "Additional study description",
+        "titles" : "Additional study description",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}

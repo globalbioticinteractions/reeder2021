@@ -1,0 +1,5 @@
+[![Review](https://github.com/globalbioticinteractions/reeder2021/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/reeder2021/actions) [![Build Status](https://app.travis-ci.com/globalbioticinteractions/reeder2021.svg)](https://app.travis-ci.com/globalbioticinteractions/reeder2021) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/reeder2021&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/reeder2021)
+
+Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
+
+DeeAnn Reeder, Natalie Weber, Dina Dechman, Juliane Schaer, Sébastien Puechmaille, Wanda Markotter, Jack Sutton, and Martina Nagy 2021. Preliminary data on literature review of bat-virus associations.
