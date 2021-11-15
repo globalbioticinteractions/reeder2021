@@ -8,7 +8,7 @@
       "@language" : "en"
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
-    "url" : "file:///home/jorrit/proj/globi/data-new/reeder2021/virus-bats-review-first10.tsv",
+    "url" : "virus-bats-review-first10.tsv",
     "dcterms:bibliographicCitation" : "DeeAnn Reeder, Natalie Weber, Dina Dechman, Juliane Schaer, Sébastien Puechmaille, Wanda Markotter, Jack Sutton, and Martina Nagy 2021. Preliminary data on literature review of bat-virus associations.",
     "interactionTypeName": "pathogenOf",
     "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002556",
